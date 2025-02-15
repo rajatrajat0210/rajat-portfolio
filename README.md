@@ -15,7 +15,8 @@ Welcome to my **Personal Portfolio Website**! This project is built using modern
 - 🏗 **Modular & Scalable Code** - Built with reusable components
 - 📱 **Responsive Design** - Fully optimized for mobile, tablet, and desktop
 - 📂 **Projects Showcase** - Displays my best projects with live links
-- 📞 **Contact Form** - Easy way for visitors to reach out
+- 🚀 **Deployment:** Netlify for free hosting and continuous deployment
+- 📞 **Contact Form Handling:** Formspree for receiving messages via the contact form
 
 ## 🚀 Getting Started
 
@@ -55,6 +56,7 @@ Make sure you have **Node.js** installed on your system.
 ├── 📜 vite.config.js  # Vite configuration
 └── 📜 README.md       # Project documentation
 ```
+## Netlify 
 
 ## 🌍 Live Demo
 🔗 [Visit My Portfolio](https://rajatrajat0210.netlify.app/)
